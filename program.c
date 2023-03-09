@@ -11,5 +11,5 @@ int main() {
     int result = a + b;
 
     printf("%i", result);
-
+    return 0;
 }
