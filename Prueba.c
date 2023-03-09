@@ -4,9 +4,9 @@
 int main() {
     int a = 0;
     int b = 0;
-    
-    fscanf("%i%*c", &a);
-    fscanf("%i%*c", &b);
+
+    scanf("%i%*c", &a);
+    scanf("%i%*c", &b);
 
     int result = a + b;
 
